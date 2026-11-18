@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Published by Sway SRL through npm trusted publishing (OIDC); no change to the node.
+
 ## 0.1.0
 
 First version.

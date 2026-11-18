@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-openshield",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "n8n node for OpenShield: image and text moderation and fraud decisions",
     "license": "MIT",
     "homepage": "https://github.com/SwayLtd/n8n-nodes-openshield#readme",
@@ -14,8 +14,8 @@
         "fraud-detection"
     ],
     "author": {
-        "name": "regisandre",
-        "email": "21986104+regisandre@users.noreply.github.com"
+        "name": "Sway SRL",
+        "url": "https://www.openshield.dev"
     },
     "repository": {
         "type": "git",
